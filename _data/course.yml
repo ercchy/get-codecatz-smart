@@ -1,82 +1,29 @@
-title: Course in a box
-modules: [start, community, learning, content, feedback, references]
+title: Get CodeCatz Smart
+modules: [start, git, HTML, CSS, feedback, references]
 signups:
- - name: Dirk Uys
-   image: http://thebacklog.net/img/profile.jpeg
-   twitter: riskycud
-   github_username: dirkcuys
- - name: Vanessa Gennarelli
-   image: https://pbs.twimg.com/profile_images/491241742104920064/R8j9lRez.jpeg
-   twitter: mozzadrella
+ - name: Mateja Verlic
+   image: https://pbs.twimg.com/profile_images/486199672894013443/6DaBpjP6.jpeg
+   twitter: sparkica
+   github_username: sparkica
+ - name: Alja Isakovic
+   image: https://pbs.twimg.com/profile_images/523576552668155904/KhoSdk5__400x400.jpeg
+   twitter: ialja
  - name: Erika Pogorelc
    image: https://pbs.twimg.com/profile_images/466206335445393410/LOhyTzw4_400x400.jpeg
    twitter: ercchy
- - name: Philipp
-   image: https://pbs.twimg.com/profile_images/3602174360/daf674f339c583641f02dfeed3e6f3c6_400x400.jpeg
-   twitter: schmidtphi
- - name: Carl
-   image: http://www.gravatar.com/avatar/8178cb8a778e8390a98e28b92d5ac764?s=400
-   twitter: ender_78
- - name: Schuyler
-   image: https://pbs.twimg.com/profile_images/1361718677/shoes_400x400.png
-   twitter: shoebox
- - name: J. Albert Bowden II
-   image: https://pbs.twimg.com/profile_images/514798020592807937/q_jllsGm_400x400.png
+ - name: Goran Blazic
+   image: https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xfa1/v/t1.0-1/c27.0.160.160/p160x160/206836_1038803084734_9228_n.jpg?oh=20e5e9947522a03bb996ac401ec07fff&oe=54AFBA10&__gda__=1421662626_4ed64715ff013c737afe651e338e1767
+   twitter: goranche
+ - name: Svetlana Sapelova
+   image: https://pbs.twimg.com/profile_images/2862256101/d7676c2d63474e50f596379cb7122480_400x400.jpeg
+   twitter: SvetkaSapelova
+ - name: Heidi Pungartnik
+   image: https://pbs.twimg.com/profile_images/501892033838329856/An-MccKe_400x400.jpeg
+   twitter: aShocka18
+ - name: Natasa Pristovsek
+   image: https://avatars0.githubusercontent.com/u/3689515?v=2&s=96
+   twitter: LaFibiola
+ - name: Nina Kos
+   image: https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xpf1/v/t1.0-1/c24.0.152.152/1970489_10200543617433517_1841303630_n.jpg?oh=dd1789fd997470dee0eee346d1867864&oe=54E91887&__gda__=1425286139_d30a18577844791fa5a9b326821f3fb7
    twitter: jalbertbowdenii
- - name: Tim Gaudette
-   image: https://pbs.twimg.com/profile_images/450785510252765184/0Z5NyUcr_normal.jpeg
-   twitter: gaudettetim
- - name: Phillip Davis
-   image: https://media.licdn.com/media/p/1/000/195/005/1f87723.jpg
-   twitter: foss4geo
- - name: Antoine Taly
-   image: http://www.webmedcentral.com/profilepics/2881_1351446374.jpg
-   twitter: anttaly
- - name: Valentina Bertani
-   image: https://lh5.googleusercontent.com/-GKiswyyh9SM/UvtGEAzdxSI/AAAAAAAAKzU/2TrqFEj5M48/w410-h569-no/IMG_1146.JPG
-   twitter: Sw3etValent1na
-   github_username: valentinabertani84
- - name: Audrey Watters
-   image: https://s3.amazonaws.com/hackedu/audreywatters_75.jpg
-   twitter: audreywatters
- - name: Arvind Gupta
-   image: https://pbs.twimg.com/profile_images/2813409156/00d80eb50e38901b4028ea8b3e6579c9.jpeg
-   twitter: arvindcg
- - name: Bekka Kahn
-   image: https://pbs.twimg.com/profile_images/1100646644/rebecca.jpg
-   twitter: rebamex
- - name: Billy Meinke
-   image: https://i.imgur.com/aO36wSl.png
-   twitter: billymeinke
-   github_username: billymeinke
- - name: Angela Brown
-   image: https://lh3.googleusercontent.com/-P3uLgoXc1gc/U9BneaNBpLI/AAAAAAAAAeY/7aChmjiSMiA/s400-no/profilepic.JPG
-   twitter: angela_brown
-   github_username: dreamingwombat
- - name: Nicole McGee
-   image: https://pbs.twimg.com/profile_images/378800000703658823/a956cfc8630c0baa84dc2acd6d20639e.jpeg
-   twitter: nicolejam
- - name: Robert Morris
-   image: http://s4.postimg.org/s0w975fp9/coalminer2.png
-   twitter: musenz
-   github_username: serious-kiwi
- - name: Jane Park
-   image: http://creativecommons.org/images/people/jane.jpg
-   twitter: janedaily
-   github_username: janeatcc
- - name: Laura Hilliger
-   image: https://pbs.twimg.com/profile_images/1161722291/profilepic_bigger.jpg
-   twitter: epilepticrabbit
-   github_username: LauraHilliger
- - name: Jaume Barcelo
-   image: https://pbs.twimg.com/profile_images/1228425369/52_400x400.jpg
-   twitter: jaumebarcelo
-   github_username: jbarcelo
- - name: César García
-   image: https://pbs.twimg.com/profile_images/1655182544/logo_twitter2_400x400.JPG
-   twitter: elsatch
-   github_username: elsatch
- - name: Elliot Harmon
-   image: https://pbs.twimg.com/profile_images/356114067/elliotwater.jpg
-   twitter: elliotharmon
-   github_username: elliotharmon
+

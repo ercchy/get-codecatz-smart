@@ -1,4 +1,4 @@
-baseurl:
+baseurl: /get-codecatz-smart
 markdown: redcarpet
 permalink: /:categories/:title/
 ga_tracking_code: UA-5757664-19
@@ -19,3 +19,5 @@ prose:
     - /fonts
     - /js
     - /css
+
+title: "Get CodeCatz smart"
