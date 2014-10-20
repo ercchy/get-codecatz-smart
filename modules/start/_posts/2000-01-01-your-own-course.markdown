@@ -11,7 +11,6 @@ Image [CC-BY-SA](https://creativecommons.org/licenses/by-sa/2.0/) by [iAlja](htt
 
 During this course you will learn the theoretical and technical parts by 
 creating your own online portfolio
-![Applause](http://media.giphy.com/media/Hc8PMCBjo9BXa/giphy.gif)
 
 ## First of, join the CodeCatz properly
 You thought we are interesting enough, that you visited us and hopefuly we did not turn you away,
@@ -33,12 +32,16 @@ here to get you started. For now you'll just need to know how to fork repository
 , how to add your lovely picture to this course and how to send a pull request, 
 so we can publish it. Then we party!
 
-
-<a class="btn btn-primary" href="https://github.com/ercchy/get-codecatz-smart/fork" target="_blank"><i class="fa fa-code-fork"></i> Fork this repository</a>
+###Let's start
+Now that you have your account on Github you can get a copy of the code that is 
+in this course directly to your Github (we know you don't know what we just said,
+but do not worry about it now). No, no copy and paste...yet.
 
 Some of the technical things may be challenging or frustrating, but by tackling 
 it bit by bit and asking your peers for help, you’ll soon be an expert 
 and helping other people. We promise!
+
+<a class="btn btn-primary" href="https://github.com/ercchy/get-codecatz-smart/fork" target="_blank"><i class="fa fa-code-fork"></i> Fork this repository</a>
 
 ### Tweak a few items. 
 In your Github space there is a repository called "get-codecatz-smart". Click on it
@@ -112,7 +115,7 @@ Now we see the summary of our pull request.
 
 ![Pull Request summary]({{site.baseurl}}/img/codecatz/summary_of_pullrequest.png)
 
-Bravo! You've send your first pull request. have yourself a treat.
+Bravo! You've send your first pull request. have yourself a treat. We will not judge.
 
 ![I regret nothing]({{site.baseurl}}/img/codecatz/iregretnothing.jpeg)
 
@@ -132,3 +135,4 @@ After they will do that:
 You have just sent your first pull request. This means that now you need to start
 learning for real.
 
+![Applause](http://media.giphy.com/media/Hc8PMCBjo9BXa/giphy.gif)
