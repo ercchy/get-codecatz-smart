@@ -1,0 +1,46 @@
+---
+title: Intro
+published: true
+---
+#What is HTML?
+
+HTML is the code that allows us to build websites. Like this one:
+
+![CodeCatz Page]({{site.baseurl}}/img/codecatz/codecatz_page.png)
+
+If you 'view the source', you see this:
+
+![CodeCatz Page]({{site.baseurl}}/img/codecatz/source_code.png)
+
+### Terms
+Some terms you will need to know that will pop up during learning about software
+that can be useful that you know of:
+
+* **Web design**  
+  The process of planning, structuring and creating a website 
+  
+* **Web development**  
+  The process of programming dynamic web applications 
+  
+* **Front end**  
+  The outwardly visible elements of a website or application 
+  
+* **Back end**  
+  The inner workings and functionality of a website or application. 
+  
+### Tools
+
+For the web development you will need tools like:
+
+* **Browser**  
+  Chrome   
+  Firefox   
+* **Development Toolkit**  
+  Chrome - Inspector   
+  Firefox - Firebug 
+  
+* **Text Editor**  
+  TextWrangler - Mac   
+  Notepad ++ - Windows   
+  Sublime Text - Linux, Mac or Windows   
+  gedit - Linux 
