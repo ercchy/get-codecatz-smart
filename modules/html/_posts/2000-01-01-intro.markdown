@@ -2,6 +2,15 @@
 title: Intro
 published: true
 ---
+
+In this section we will show you the basic of HTML. 
+
+You are invited to go trough it together wit ha fellow CodeCat, preferably one which
+has similar level of experience with HTML as yourself.
+
+We will be building a site as we learn, and every time we are done explaining and want 
+you to do something, there will be a <h2>CAT Action</h2> called :)
+
 #What is HTML?
 
 HTML is the code that allows us to build websites. Like this one:

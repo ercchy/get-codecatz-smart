@@ -59,7 +59,9 @@ There are Opening tag and Closing Tag, and they contain characters that indicate
 ![Tag Breakdown]({{site.baseurl}}/img/codecatz/tagbreakdown.png)
 
 * **Container Element**  
-An element that can contain other elements or content. For example a paragraph {% highlight yaml %} <p>{% endhighlight %} contains text
+An element that can contain other elements or content. For example a paragraph
+
+{% highlight yaml %} <p>{% endhighlight %} contains text
 
 * **Stand Alone Element**  
 An element that cannot contain anything else
