@@ -13,7 +13,7 @@ During this course you will learn the theoretical and technical parts by
 creating your own online portfolio
 ![Applause](http://media.giphy.com/media/Hc8PMCBjo9BXa/giphy.gif)
 
-## First of, join the CodeCatz 
+## First of, join the CodeCatz properly
 You thought we are interesting enough, that you visited us and hopefuly we did not turn you away,
 by the heaps of chocolade we offered you.
 
@@ -47,39 +47,88 @@ know what they are just yet.
 
 Find this file{% highlight yaml %}_data/course.yml{% endhighlight %}
 
-On the top right you will see a button (little pencil), by cliking on it you are able to edit
+On the top right you will see a button ![Little Pencil]({{site.baseurl}}/img/codecatz/little_pencil.png), by cliking on it you are able to edit
 this file.
 
-There are two updates that you need to make to your course to get started, the first to change
+Where it says "signups" add your own data. Careful, data has to be in the same format as
+all of the other is already. That means you have to watch out for the whitespaces,
+they are important.
 
-{% highlight yaml %}baseurl:{% endhighlight %}
+Example:
+{% highlight yaml %}
+ - name: Blink TheCat
+  image: http://path/to/the/image
+  twitter: blink
+  github_username: blink
+{% endhighlight %}
 
-to
+After you are done adding you info you will need to commit this change. 
+That is just a fancy way of saying you are saving the change you made.
 
-{% highlight yaml %}baseurl: /course-in-a-box{% endhighlight %}
+On the bottom of the editor, there is a space, where you describe what your
+change is about. The description does not need to be very long, but it is a good
+practice to put something descriptive.
 
-in the file [https://github.com/your-github-username/course-in-a-box/blob/gh-pages/_config.yml](https://github.com/your-github-username/course-in-a-box/blob/gh-pages/_config.yml)
+![Your first commit]({{site.baseurl}}/img/codecatz/commit.png)
 
-Next, delete the file called CNAME [https://github.com/your-github-username/course-in-a-box/blob/gh-pages/CNAME](https://github.com/your-github-username/course-in-a-box/blob/gh-pages/CNAME)
+### Send your first pull request. 
 
-Now that you have a space to work, lets put a draft framework in place for your course.
+Now this is the change that you did in your own repository, which is only a 
+clone of the main CodeCatz repository. The change you made is reflected on
+your repository, but the main one does not know anything about your changes
+(how rude, but hey that is life...).
 
-### Give your course a name. 
-To update the title of your course, go to [https://github.com/your-github-username/course-in-a-box/](https://github.com/your-github-username/course-in-a-box/edit/gh-pages/_data/course.yml) and edit the file called `_data/course.yml`. You will see the title for this course there, change that to the name you decided on. Don't worry too much if you don't have the perfect name, you now know how to change the title for your course and you can update it at any time!
+So we have to tell the main repository you have made something new and you
+think it could be interesting for it. To let the main repository see the changes 
+you made, we will need to send a pull request. That means we will request that
+the main repository pulls our changes into itself and display your lovely image.
 
-{% highlight yaml %}title: "Course Title"{% endhighlight %}
+First press this button on the right side ![Pull Request Button]({{site.baseurl}}/img/codecatz/little_pull_request.png)
 
-### Who is the course for & what will they learn?
-Will they be building something during the course. Put this basic information on the front page of the course to give a short overview of what to expect. To update the info on the front page, go to `index.markdown` and replace the text currently there to reflect what your course will be about. Once again, you can update it at any time and we will come back to this at a later stage.
+The page for the pull requests opens up and there is a new button that you'll need 
+to press.
 
-So lets have a look at your course! you can view it by going to [https://your-github-username.github.io/course-in-a-box/](https://your-github-username.github.io/course-in-a-box/), just replace your-github-username with your GitHub username.
+![Create new pull request]({{site.baseurl}}/img/codecatz/create_new_pull_request.png)
 
-## Resources and Help
+Now you can review the changes you made. The green lines is everything you added
+and the red ones are everything you deleted or changed.
 
-- See our <a href="{{site.baseurl}}{% post_url 2000-01-02-github-cheatsheet %}">GitHub Cheatsheet</a> if you get stuck with any git related things. 
-- Ask a question on the [P2PU community forum](http://community.p2pu.org/category/tech).
+![Review the changes]({{site.baseurl}}/img/codecatz/review_changes.png)
 
-You may have noticed that the `index.markdown` file contained a few funny caracters. This is called [Markdown](https://en.wikipedia.org/wiki/Markdown), an easy way of writing files for the web. For some tips on how to get the most out of Markdown, see [our Markdown cheetsheet]({{site.baseurl}}/references/markdown-cheatsheet/).
- 
-**Possible error: pages not displayed.** You can get an email after forking the repository with the following message: "The page build failed with the following error: Page build failed". To solve this issue, check you have [enabled the automatic page generator](https://help.github.com/articles/creating-pages-with-the-automatic-generator) on your repository. Another possible cause would be a missing whitespace in your newly added content. Double check it and commit again to trigger page generation.
+After we reviewed all the changes we have made we are going to have to press the green
+"Create pull request" button yet again. Yeah it takes a lot of convincing, we know.
+
+![Create Pull Request Yet Again]({{site.baseurl}}/img/codecatz/create_pullrequest_after_review.png)
+
+You will see that the description of your commit is automaticaly set into the 
+title input box, and you can leave it as it is, or you can change it if there is 
+something else you would like to say to the people who will look at your pull request.
+We will leave it as it is now, because it is descriptive enough.
+And will yet again press the big green button. This is the last time, promise!
+
+![Send Pull Request]({{site.baseurl}}/img/codecatz/send_pullrequest.png)
+
+Now we see the summary of our pull request.
+
+![Pull Request summary]({{site.baseurl}}/img/codecatz/summary_of_pullrequest.png)
+
+Bravo! You've send your first pull request. have yourself a treat.
+
+![I regret nothing]({{site.baseurl}}/img/codecatz/iregretnothing.jpeg)
+
+### What now?
+
+Now we have to sit around and wait for the people who are maintainers of the main
+repository look at our pull request and merge it.
+
+After they will do that:
+
+####Ta-da
+
+![Who Else Is Here]({{site.baseurl}}/img/codecatz/who_else.png)
+
+## Recap
+
+You have just sent your first pull request. This means that now you need to start
+learning for real.
 
