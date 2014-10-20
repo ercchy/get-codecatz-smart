@@ -1,0 +1,13 @@
+---
+title: CSS
+published: true
+---
+
+In this section you will learn basic knowledge of CSS.
+
+We will build upon your HTML page that you built in previous section, and make it soooo
+pretty.
+
+Again we recommend using one of your fellow CodeKitten to go trough this together, 
+as this is now the creative part of the internet. Working together will be so much more fun!
+
