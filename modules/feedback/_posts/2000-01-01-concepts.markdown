@@ -10,7 +10,9 @@ be able to show the whole world that you are a CodeCat now.
 
 Go on, ask you fellow CodeCatz for some feedback on the projects that you made
 trough this course. We bet they are going to be super stoked and will give you
-a good constructive feedback on it.
+a good constructive feedback on it. You can do that by applying for these Badges.
+have the links to your Github repositories ready as you will need to paste them,
+so your fellow CodeCatz can see what have you been up to.
 
 They are the ones, who will award you this Badge. And you can carry it then in your backpack
 and how it to your future boss.

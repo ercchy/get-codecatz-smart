@@ -1,7 +1,79 @@
 ---
-title: Build Something
+title: HTML
 published: true
 ---
+
+In this section we will show you the basic of HTML. 
+
+You are invited to go trough it together wit ha fellow CodeCat, preferably one which
+has similar level of experience with HTML as yourself.
+
+We will be building a site as we learn, and every time we are done explaining and want 
+you to do something, there will be a <h2>CAT Action</h2> called :)
+
+#What is HTML?
+
+HTML is the code that allows us to build websites. Like this one:
+
+![CodeCatz Page]({{site.baseurl}}/img/codecatz/codecatz_page.png)
+
+If you 'view the source', you see this:
+
+![CodeCatz Page]({{site.baseurl}}/img/codecatz/source_code.png)
+
+### Terms
+Some terms you will need to know that will pop up during learning about software
+that can be useful that you know of:
+
+* **Web design**  
+  The process of planning, structuring and creating a website 
+  
+* **Web development**  
+  The process of programming dynamic web applications 
+  
+* **Front end**  
+  The outwardly visible elements of a website or application 
+  
+* **Back end**  
+  The inner workings and functionality of a website or application. 
+  
+### Tools
+
+For the web development you will need tools like:
+
+* **Browser**  
+  Chrome   
+  Firefox   
+* **Development Toolkit**  
+  Chrome - Inspector   
+  Firefox - Firebug 
+  
+* **Text Editor**  
+  TextWrangler - Mac   
+  Notepad ++ - Windows   
+  Sublime Text - Linux, Mac or Windows   
+  gedit - Linux 
+  
+#History of HTML
+
+The HTML was invented by Tim Berners-Lee. If there should be just one, thant he
+ is a true and proper web developer.
+ 
+He decided to create "hypertext" to share scientific papers, because he was sitting in
+his office ar CERN Institute and, thought about how
+file sharing between people there really sucks. He said there is sure a better 
+way of doing this.
+
+The first web page saw the light on August 6, 1991. That is not that far back really,
+so there is still plenty to be discovered and built on the web. Courage dear cat!
+
+As everything, even HTML became a super mess after a while. Everyone was understanding it
+differently and implementing it the way they understood it. On top they had their own
+ideas about what it should contain or how it should look like, 
+so there was a desperate call for some sort of standardization from the developers
+back then. it got standardized by w3 Consortium (pack of super nerds).
+
+
 
 # Get started: folder structure
 
@@ -430,4 +502,5 @@ There are character codes for many different characters in many different langua
 * An grave a: ```&agrave;``` à 
 
 A full list is available at [http://www.ascii.cl/htmlcodes.htm](http://www.ascii.cl/htmlcodes.htm)
+
 

@@ -1,0 +1,21 @@
+---
+title: Meetup 15 October 2014
+published: true
+---
+
+#Meetup notes: Catching up
+
+It was a sleepy, rainy day. Most of the mentors abandoned us, so we used this week’s meeting to catch up and review stuff some kitties missed. We also welcomed a new kitty to the group and hope to see her again.
+
+Being hosted by Celtra this week, we learned more about their rich media mobile advertising and had interesting discussions about the role of CSS, JavaScript and other stuff in a web app.
+
+##Homework
+
+Still waiting for all apps to have awesome [jQuery validation](http://jqueryvalidation.org/). 
+Check out the [example in kibble](https://github.com/CodeCatz/kibble/tree/master/jQuery/2013-08-28-jquery-form-validation) 
+for inspiration.
+
+We need some presentations for next week. Add yourself to the [kibble list](https://github.com/CodeCatz/kibble)
+, m’kay!
+
+![Meetup Pic]({{site.baseurl}}/img/codecatz/meetup-pic.jpg)
