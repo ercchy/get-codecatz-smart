@@ -8,10 +8,10 @@ published: true
 Here we are providing you with some basic stuff that a CodeKitten needs in order
 to start their CodeCatz journey.
 
-This is the core curriculum that each member should know in order to proceede
+This is the core curriculum that each member should know in order to proceed
  to the projects that we are building as a part of an open source movement.
  
-The best way to learn this is to sit down with another kitten and go troug this
+The best way to learn this is to sit down with another kitten and go trough this
 words of wisdom together, as we believe that you will learn in small groups much easier,
  faster and most of all your knowledge will be deeper.
  
