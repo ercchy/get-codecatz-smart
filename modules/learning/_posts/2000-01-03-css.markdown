@@ -11,11 +11,14 @@ pretty.
 Again we recommend using one of your fellow CodeKitten to go trough this together, 
 as this is now the creative part of the internet. Working together will be so much more fun!
 
-#CSS: WHAT IS IT?
+#CSS: What is it?
 
-CSS = Cascading Style Sheets
-CSS is a "style sheet language" that lets you style the elements on your page.
-CSS works in conjunction with HTML, but is not HTML itself.
+* **CSS = Cascading Style Sheets**  
+
+* **CSS is a "style sheet language" that lets you style the elements on your page.** 
+
+* **CSS works in conjunction with HTML, but is not HTML itself.** 
+
 
 ###CSS: What can it do?
 

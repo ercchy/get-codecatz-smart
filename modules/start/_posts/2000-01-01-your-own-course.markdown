@@ -13,8 +13,8 @@ During this course you will learn the theoretical and technical parts by
 creating your own online portfolio
 
 ## First of, join the CodeCatz properly
-You thought we are interesting enough, that you visited us and hopefuly we did not turn you away,
-by the heaps of chocolade we offered you.
+You thought we are interesting enough, that you visited us and hopefully we did not turn you away,
+by the heaps of chocolate we offered you.
 
 Now is time for you to tell the whole wold you are now a CodeCat and that is why
 we want you to put your lovely

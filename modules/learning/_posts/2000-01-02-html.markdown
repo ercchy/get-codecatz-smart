@@ -11,6 +11,10 @@ has similar level of experience with HTML as yourself.
 We will be building a site as we learn, and every time we are done explaining and want 
 you to do something, there will be a <h2>CAT Action</h2> called :)
 
+Let's begin cat...
+
+***
+
 #What is HTML?
 
 HTML is the code that allows us to build websites. Like this one:
@@ -20,6 +24,8 @@ HTML is the code that allows us to build websites. Like this one:
 If you 'view the source', you see this:
 
 ![CodeCatz Page]({{site.baseurl}}/img/codecatz/source_code.png)
+
+This is how your browser sees your website, weird right? 
 
 ### Terms
 Some terms you will need to know that will pop up during learning about software
